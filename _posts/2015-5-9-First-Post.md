@@ -1,6 +1,6 @@
 ---
-title: This is my title
+title: 첫 글입니다.
 layout: post
 ---
 
-*Here is my page.*
+*제대로 나와요*
